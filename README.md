@@ -1,6 +1,6 @@
 # Need4Stek
-*>THIS PROJECT NEED COPPELIASIM THAT YOU CAN DOWNLOAD HERE :
-     https://www.coppeliarobotics.com/downloads<*
+>*THIS PROJECT NEED COPPELIASIM THAT YOU CAN DOWNLOAD HERE :
+     https://www.coppeliarobotics.com/downloads*<
 ### USAGE :
      make re && ./pipe.sh
 ## Example :
